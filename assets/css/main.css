@@ -494,29 +494,35 @@ ul li {
 }
 .partner .partner-box-1 {
   background: url(../images/partner/partner-1.png) no-repeat center center/contain;
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 300px;
 }
 .partner .partner-box-2 {
   background: url(../images/partner/partner-2.png) no-repeat center center/contain;
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 220px;
 }
 .partner .partner-box-3 {
   background: url(../images/partner/partner-3.png) no-repeat center center/contain;
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 220px;
 }
 .partner .partner-box-4 {
   background: url(../images/partner/partner-4.png) no-repeat center center/contain;
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 220px;
+  margin: 0px
 }
 .partner .partner-box-5 {
   background: url(../images/partner/partner-5.png) no-repeat center center/contain;
+  height: 100px;
+  width: 220px;
 }
 .partner .partner-box-6 {
   background: url(../images/partner/partner-6.png) no-repeat center center/contain;
+  height: 200px;
+  width: 200px;
+  margin: 0px
 }
 .partner .partner-box-7 {
   background: url(../images/partner/partner-7.png) no-repeat center center/contain;
