@@ -69,7 +69,7 @@ $('#registration-form').submit(function(e){
 smoothScroll.init();
 
 // set the date we're counting down to
-var target_date = new Date('2025-11-01T09:00:00-08:00').getTime();
+var target_date = new Date('2026-08-01T09:00:00-05:00').getTime();
 
 // variables for time units
 var days, hours, minutes, seconds;
