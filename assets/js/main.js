@@ -107,7 +107,5 @@ setInterval(function () {
 }, 1000);
 
 //speaker click
-$(".speaker").click(function() {
-  window.location = $(this).find("a").attr("href");
-  return false;
-});
+// Disabled because panelist cards should not navigate when clicked.
+// If speaker cards later need links, attach handlers only to elements with actual URLs.
