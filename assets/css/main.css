@@ -525,9 +525,11 @@ ul li {
   width: 220px;
 }
 .partner .partner-box-3 {
-  background: url(../images/partner/partner-3.png) no-repeat center center/contain;
-  height: 100px;
-  width: 220px;
+  background: url(../images/partner/partner-3.png) no-repeat center center;
+  background-size: 100% auto;
+  height: 200px;
+  width: 300px;
+  margin: 0 auto;
 }
 .partner .partner-box-4 {
   background: url(../images/partner/partner-4.png) no-repeat center center/contain;
