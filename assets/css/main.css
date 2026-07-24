@@ -447,6 +447,9 @@ ul li {
 .speaker figure.align-top img {
   object-position: center top;
 }
+.speaker figure.zilong-top img {
+  object-position: center 10%;
+}
 .speaker img {
   width: 100%;
   height: 100%;
